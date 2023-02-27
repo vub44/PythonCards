@@ -30,7 +30,6 @@ Deck.add(card, shuffled)
 takes two arguments; the card you want to add (1 --> 52) and if it should shuffle it in.
 Adds the supplied card. If shuffled = True, then it will place it in a random spot. If not the it will be added at the top.
 
-
 # Example
 ```python
 import cards
