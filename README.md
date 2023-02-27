@@ -2,7 +2,8 @@
 A super minimal python playing cards library, capable of sorting, shuffeling and drawing cards. Easy to use and build card games out of.
 
 # Installation
-Download 
+Download the cards.py and place it in either you libraries folder or the project folder. 
+Then import it at the top of your code.
 
 
 # Functions
