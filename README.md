@@ -11,10 +11,12 @@ Deck.shuffle()
 
 takes no argument, shuffles the deck
 
+
 Deck.sort()
 
 takes no arguments, sorts the deck ascending.
 If the deck only contains 1, 2 and 3, it will sort accordingly. Does not add in drawn cards.
+
 
 Deck.reshuffle()
 
@@ -25,11 +27,13 @@ Deck.convert(card)
 takes one argument; the card you want to convert. Only takes a number between 1 and 52.
 it converts the the supplied number into a readable format. Example: ♡11 and ♠3
 
+
 Deck.draw(amount)
 
 takes two arguments; the amount of cards you want to draw and if it should be converted or not.
 Always takes the top card so you need to shuffle the deck to get a random card.
 Always returns a list.
+
 
 Deck.add(card, shuffled)
 
