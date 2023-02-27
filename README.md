@@ -31,7 +31,7 @@ Adds the supplied card. If shuffled = True, then it will place it in a random sp
 
 
 # Example
-'''python
+```python
 import cards
 
 deck = cards.Deck()
@@ -39,6 +39,6 @@ deck = cards.Deck()
 deck.shuffle()
 
 print(deck.draw(1, True))
-'''
+```
 
 will output a list of cards drawn, in a readable format.
