@@ -7,7 +7,7 @@ Then import it at the top of your code.
 
 
 # Functions
-Deck.shuffle()
+# Deck.shuffle()
 takes no argument, shuffles the deck
 
 # Deck.sort()
